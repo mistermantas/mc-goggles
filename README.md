@@ -21,7 +21,7 @@ From [the releases page](https://github.com/PolarGalaxyMC/goggles/releases), pic
 Now, go to your `server.properties` file, and copy that URL to the 35th line. Your properties file should now look something like this:
 
 ```
-resource-pack=https://github.com/PolarGalaxyMC/goggles/releases/download/2.0.0/pack.zip
+resource-pack=https://github.com/PolarGalaxyMC/goggles/releases/download/2.0/pack.zip
 ```
 
 If it does, save the server properties file, and restart the server. Players will now be prompted to use the pack upon logging in. If you see any extra backslashes after restarting the server in your configuration file—[do not remove them](https://en.wikipedia.org/wiki/Escape_character)!
