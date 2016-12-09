@@ -1,6 +1,6 @@
 # Happle’s Goggles
 
-[![Total downloads](https://img.shields.io/github/downloads/PolarGalaxyMC/goggles/total.svg?maxAge=2592000)](https://github.com/PolarGalaxyMC/goggles/releases) [![Join our Discord](https://img.shields.io/badge/discord-join%20chat-7289DA.svg)](https://polargalaxy.com/discord) [![Follow our Twitter](https://img.shields.io/twitter/follow/polargalaxymc.svg?style=social&label=Follow)](https://twitter.com/polargalaxymc)
+[![Total downloads](https://img.shields.io/github/downloads/polargalaxymc/goggles/total.svg?style=flat-square)]() [![Join our Discord](https://img.shields.io/badge/discord-join%20chat-7289DA.svg?style=flat-square)](https://polargalaxy.com/discord) [![Follow our Twitter](https://img.shields.io/twitter/follow/polargalaxymc.svg?style=flat-square&label=twitter updates)](https://twitter.com/polargalaxymc)
 
 This is a Minecraft resource pack that includes color-corrected clay, glass doors, updated glowstone, and more. The Goggles resource pack aims to enhance the currently available textures by making them more suitable for a larger array of build styles, while also not restricting or completely revamping the way vanilla Minecraft looks.
 
