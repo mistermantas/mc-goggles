@@ -14,7 +14,7 @@ Check the [releases]((https://github.com/PolarGalaxyMC/goggles/releases) to see 
 
 ## Features
 
-![Screenshot](https://github.com/PolarGalaxyMC/goggles/blob/master/screenshot.png?raw=true)
+![Screenshot](https://raw.githubusercontent.com/polargalaxymc/goggles/master/screenshot.jpg)
 
 + Stained clay blocks have been color-corrected; white clay is now fully white
 + [Glowstone](https://github.com/PolarGalaxyMC/goggles/blob/master/assets/minecraft/textures/blocks/glowstone.png) has been completely revamped to match sea lanterns
