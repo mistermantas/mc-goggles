@@ -1,20 +1,16 @@
-# Happle’s Goggles
+# [MC-Goggles](https://goggles.polargalaxymc.com)
 
 [![Total downloads](https://img.shields.io/github/downloads/polargalaxymc/goggles/total.svg?style=flat-square)](https://github.com/PolarGalaxyMC/goggles/releases) [![Current release](https://img.shields.io/github/release/polargalaxymc/goggles.svg)](https://github.com/polargalaxymc/cubhub/releases) [![Donate](https://img.shields.io/badge/support_us-donate-yellow.svg?style=flat-square)](https://polargalaxy.com/support) [![Discord](https://img.shields.io/badge/discord-join%20chat-7289DA.svg?style=flat-square)](https://polargalaxy.com/discord) [![Twitter](https://img.shields.io/twitter/follow/polargalaxymc.svg?style=flat-square&label=twitter updates)](https://twitter.com/polargalaxymc) [![Standard README style](https://img.shields.io/badge/readme%20style-standard-blue.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-> Minecraft resource pack featuring color-corrected clay, new wood, some new doors, new glowstone, paintings, black brick, and more.
+> Minecraft resource pack that enhances the currently available textures by making them more suitable for a larger array of build styles, while also not restricting or completely revamping the way that Minecraft already looks. Recommended for semi or fully modern survival servers or creative servers.
 
-The aim of this mod is simple: Enhance the currently available textures by making them more suitable for a larger array of build styles, while also not restricting or completely revamping the way that Minecraft already looks.
-
-This resource pack was made for our server called Polar Galaxy: [Learn more](https://polargalaxy.com)
+This resource pack was made for our server called Polar Galaxy—[learn more](https://www.polargalaxy.com/about). If you scroll down, you will find [a full list of all the features](#features). [Visit the MC-Goggles site](https://goggles.polargalaxymc.com)
 
 ## Install
 
-Check the [releases]((https://github.com/PolarGalaxyMC/goggles/releases) to see which version is the right pick for you. If you’re not familiar with resource pack installation—take a look at [this tutorial](http://minecraft.gamepedia.com/Tutorials/Loading_a_resource_pack). Server owners should look below for different installation instructions.
+Check the [releases](https://github.com/PolarGalaxyMC/goggles/releases) to see which version is the right pick for you. If you’re not familiar with resource pack installation—take a look at [this tutorial](http://minecraft.gamepedia.com/Tutorials/Loading_a_resource_pack). Server owners should look below for different installation instructions.
 
 ## Features
-
-![Screenshot](https://github.com/PolarGalaxyMC/goggles/blob/master/screenshot.png?raw=true)
 
 + Stained clay blocks have been color-corrected; white clay is now fully white
 + [Glowstone](https://github.com/PolarGalaxyMC/goggles/blob/master/assets/minecraft/textures/blocks/glowstone.png) has been completely revamped to match sea lanterns
@@ -29,6 +25,12 @@ Check the [releases]((https://github.com/PolarGalaxyMC/goggles/releases) to see 
 + [Cacti](https://github.com/PolarGalaxyMC/goggles/blob/master/assets/minecraft/textures/blocks/cactus_side.png) are a bit more pale now
 + [Pumpkins](https://github.com/PolarGalaxyMC/goggles/blob/master/assets/minecraft/textures/blocks/pumpkin_face_off.png) no longer have faces
 + Added [darker GUI background](https://github.com/PolarGalaxyMC/goggles/blob/master/assets/minecraft/textures/gui/options_background.png)
++ Milk buckets are now milk bottles
++ Cake has been replaced with deep dish pizza
++ Furnaces are now ovens
++ Note blocks are now speakers
++ Jukeboxes are now stereo systems
++ Includes Vader’s alt textures
 
 ## Server usage
 
@@ -42,7 +44,7 @@ If it does, save it and restart the server. Players will now be prompted to use 
 
 ## Contributing
 
-Feel free to make a feature request or bug report on [our issue tracker]((https://github.com/PolarGalaxyMC/goggles/issues). Submit your textures with a [pull request](https://github.com/PolarGalaxyMC/goggles/pulls).
+Feel free to make a feature request or bug report on [our issue tracker](https://github.com/PolarGalaxyMC/goggles/issues). Submit your textures with a [pull request](https://github.com/PolarGalaxyMC/goggles/pulls).
 
 ## Credits & license
 
