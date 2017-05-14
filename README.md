@@ -1,10 +1,12 @@
 # [MC-Goggles](https://goggles.polargalaxy.com)
 
-[![Total downloads](https://img.shields.io/github/downloads/polargalaxymc/goggles/total.svg?style=flat-square)](https://github.com/PolarGalaxyMC/goggles/releases) [![Current release](https://img.shields.io/github/release/polargalaxymc/goggles.svg?style=flat-square)](https://github.com/polargalaxymc/cubhub/releases) [![Donate](https://img.shields.io/badge/support_us-donate-yellow.svg?style=flat-square)](https://polargalaxy.com/support) [![Discord](https://img.shields.io/badge/discord-join%20chat-7289DA.svg?style=flat-square)](https://polargalaxy.com/discord) [![Twitter](https://img.shields.io/twitter/follow/polargalaxymc.svg?style=flat-square&label=twitter updates)](https://twitter.com/polargalaxymc) [![Standard README style](https://img.shields.io/badge/readme%20style-standard-blue.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+[![Total downloads](https://img.shields.io/github/downloads/polargalaxymc/goggles/total.svg?style=flat-square)](https://github.com/PolarGalaxyMC/goggles/releases) [![Current release](https://img.shields.io/github/release/polargalaxymc/goggles.svg?style=flat-square)](https://github.com/polargalaxymc/cubhub/releases)  [![Donate](https://img.shields.io/badge/support_us-donate-yellow.svg?style=flat-square)](https://www.polargalaxy.com/donate)  [![Discord](https://img.shields.io/badge/discord-join%20chat-7289DA.svg?style=flat-square)](https://www.polargalaxy.com/discord)  [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)  [![Twitter](https://img.shields.io/twitter/follow/polargalaxymc.svg?style=social&label=Follow)](https://twitter.com/polargalaxymc)
 
-> Minecraft resource pack that enhances the currently available textures by making them more suitable for a larger array of build styles, while also not restricting or completely revamping the way that Minecraft already looks. Recommended for semi or fully modern survival servers or creative servers.
+> Minecraft resource pack that enhances the currently available textures by making them more suitable for a larger array of build styles, while also not restricting or completely revamping the way that Minecraft already looks. Recommended for semi or fully modern servers that are typically aimed at builders.
 
-This resource pack was made for our server called Polar Galaxy—[learn more](https://www.polargalaxy.com/about). If you scroll down, you will find [a full list of all the features](#features). [Visit the MC-Goggles site](https://goggles.polargalaxy.com)
+[Learn more about MC-Goggles](https://goggles.polargalaxy.com)
+
+[Join Polar Galaxy for a live demo](https://www.polargalaxy.com/about).
 
 ## Install
 
