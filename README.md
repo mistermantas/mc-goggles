@@ -1,55 +1,38 @@
-# [MC-Goggles](https://goggles.polargalaxy.com)
+# 👓 MC-Goggles
 
-[![Total downloads](https://img.shields.io/github/downloads/polargalaxymc/goggles/total.svg?style=flat-square)](https://github.com/PolarGalaxyMC/goggles/releases) [![Current release](https://img.shields.io/github/release/polargalaxymc/goggles.svg?style=flat-square)](https://github.com/polargalaxymc/cubhub/releases)  [![Donate](https://img.shields.io/badge/support_us-donate-yellow.svg?style=flat-square)](https://www.polargalaxy.com/donate)  [![Discord](https://img.shields.io/badge/discord-join%20chat-7289DA.svg?style=flat-square)](https://www.polargalaxy.com/discord)  [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)  [![Twitter](https://img.shields.io/twitter/follow/polargalaxymc.svg?style=social&label=Follow)](https://twitter.com/polargalaxymc)
+[![Total downloads](https://img.shields.io/github/downloads/mistermantas/goggles/total.svg?style=flat-square)](https://github.com/mistermantas/goggles/releases)  [![Current release](https://img.shields.io/github/release/mistermantas/goggles.svg?style=flat-square)](https://github.com/mistermantas/goggles/releases)  [![Discord](https://img.shields.io/badge/discord-join%20chat-7289DA.svg?style=flat-square)](https://discord.gg/0sg9HNylRzK4SnCr)  [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)  [![Twitter](https://img.shields.io/twitter/follow/mistermantas.svg?style=social&label=Follow)](https://twitter.com/mistermantas)
 
-> Minecraft resource pack that enhances the currently available textures by making them more suitable for a larger array of build styles, while also not restricting or completely revamping the way that Minecraft already looks. Recommended for semi or fully modern servers that are typically aimed at builders.
+> This Minecraft resource pack—this modification that changes the game’s textures—is a close alternative to the default look, with some changes that compliment complex structures.
 
-[Learn more about MC-Goggles](https://goggles.polargalaxy.com)
+The goal is to enhance the currently available textures by making them more suitable for a larger array of styles, structures, and all while also not restricting or completely revamping the way that the game already looks. For example, such a modification would be suitable for cities or other non-medieval builds.
 
-[Join Polar Galaxy for a live demo](https://www.polargalaxy.com/about).
+For a more in-depth overview, please [visit the MC-Goggles website](https://mc-goggles.netlify.com).
 
-## Install
+## Usage
 
-Check the [releases](https://github.com/PolarGalaxyMC/goggles/releases) to see which version is the right pick for you. If you’re not familiar with resource pack installation—take a look at [this tutorial](http://minecraft.gamepedia.com/Tutorials/Loading_a_resource_pack). Server owners should look below for different installation instructions.
+Download the preferred version of the mod from [the releases page](https://github.com/mistermantas/goggles/releases). Make sure to download the zip file and not the source code.
 
-## Features
+(Take a look at [this tutorial](http://minecraft.gamepedia.com/Tutorials/Loading_a_resource_pack) if you are not familiar with loading a resource pack.)
 
-+ Stained clay blocks have been color-corrected; white clay is now fully white
-+ [Glowstone](https://github.com/PolarGalaxyMC/goggles/blob/master/assets/minecraft/textures/blocks/glowstone.png) has been completely revamped to match sea lanterns
-+ The [birch log bark](https://github.com/PolarGalaxyMC/goggles/blob/master/assets/minecraft/textures/blocks/log_birch.png) is now all white, without any spots
-+ Nether brick are now black, like [seared bricks](https://ftbwiki.org/Seared_Brick) from modded
-+ The [paintings have been altered](https://github.com/PolarGalaxyMC/goggles/blob/master/assets/minecraft/textures/painting/paintings_kristoffer_zetterstrand.png?raw=true) to include Bob Ross’s work
-+ [Slime](https://github.com/PolarGalaxyMC/goggles/blob/master/assets/minecraft/textures/entity/slime/slime.png) are all blue and suitable for use as trampolines
-+ [Iron doors](https://github.com/PolarGalaxyMC/goggles/blob/master/assets/minecraft/textures/blocks/door_iron_upper.png) now have bars going through them
-+ [Jungle wood](https://github.com/PolarGalaxyMC/goggles/blob/master/assets/minecraft/textures/blocks/planks_jungle.png) has been completely redone
-+ [Jungle doors](https://github.com/PolarGalaxyMC/goggles/blob/master/assets/minecraft/textures/blocks/door_jungle_upper.png?raw=true) are now closer to acacia doors
-+ Upped the saturation of [melons](https://github.com/PolarGalaxyMC/goggles/blob/master/assets/minecraft/textures/blocks/melon_side.png)
-+ [Cacti](https://github.com/PolarGalaxyMC/goggles/blob/master/assets/minecraft/textures/blocks/cactus_side.png) are a bit more pale now
-+ [Pumpkins](https://github.com/PolarGalaxyMC/goggles/blob/master/assets/minecraft/textures/blocks/pumpkin_face_off.png) no longer have faces
-+ Added [darker GUI background](https://github.com/PolarGalaxyMC/goggles/blob/master/assets/minecraft/textures/gui/options_background.png)
-+ Milk buckets are now milk bottles
-+ Cake has been replaced with deep dish pizza
-+ Furnaces are now ovens
-+ Note blocks are now speakers
-+ Jukeboxes are now stereo systems
-+ Includes Vader’s alt textures
-
-## Server usage
-
-This pack can also be used for servers (Spigot/Sponge not required). Just pick a version that is suitable for your use case and game version from that same release page, then right-click on the packaged zip file link. Hit “Copy link address.” Now, go to your `server.properties` file, and copy that URL to the 35th line. Your properties file should now look something like this (except the version number will be different):
+This pack can also be used on any server. From the release page, right-click on a packaged zip file link and copy it. Now, go to your `server.properties` file, and copy that URL like this:
 
 ```
-resource-pack=https://github.com/PolarGalaxyMC/goggles/releases/download/2.0/pack.zip
+resource-pack=https://github.com/mistermantas/goggles/releases/download/4.0/pack.zip
 ```
 
-If it does, save it and restart the server. Players will now be prompted to use the pack upon logging in. If you see any extra backslashes after restarting the server in your configuration file—[do not remove them](https://en.wikipedia.org/wiki/Escape_character)!
+Save your edited file and restart the server. Players will now be prompted to use the pack upon logging in. If you see any extra backslashes after restarting the server in your configuration file, [do not remove them](https://en.wikipedia.org/wiki/Escape_character)!
 
-## Contributing
+## Contribute
 
-Feel free to make a feature request or bug report on [our issue tracker](https://github.com/PolarGalaxyMC/goggles/issues). Submit your textures with a [pull request](https://github.com/PolarGalaxyMC/goggles/pulls).
+[Pull requests](https://github.com/mistermantas/goggles/pulls) are accepted. You can also submit a bug report or feature request to [this issue tracker](https://github.com/mistermantas/goggles/issues).
 
-## Credits & license
+## Credits
 
-Thank you to [KobyTheHedgehog](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/2557239-glass-doors-for-1-10x) for their glass door textures and a huge thanks goes out to [Hyperactive_Man on Reddit](https://www.reddit.com/r/Minecraft/comments/38q14w/the_better_than_default_texture_pack/?ref=share&ref_source=link) for their color-corrected version of hardened clay, updated melons & pumpkins. Also—thank you to [xDino on Reddit](https://www.reddit.com/r/Minecraft/comments/1zouwl/i_made_a_better_slime_block_texture/?ref=search_posts) for the slime block texture and also thanks to [Azendia on DeviantArt](http://azendia.deviantart.com/art/Bob-Ross-Framed-Paintings-Pack-16-Minecraft-1-8-9-584165890) for their work on bringing Bob Ross’s paintings to Minecraft.
++ [KobyTheHedgehog on the Minecraft Forums](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/2557239-glass-doors-for-1-10x)
++ [Hyperactive_Man on Reddit](https://www.reddit.com/r/Minecraft/comments/38q14w/the_better_than_default_texture_pack/?ref=share&ref_source=link)
++ [xDino on Reddit](https://www.reddit.com/r/Minecraft/comments/1zouwl/i_made_a_better_slime_block_texture/?ref=search_posts)
++ [Azendia on DeviantArt](http://azendia.deviantart.com/art/Bob-Ross-Framed-Paintings-Pack-16-Minecraft-1-8-9-584165890)
 
-This pack is licensed under the [Creative Commons BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/). In other words, you can do just about anything you want so long as you give credit and do not use the pack for commercial purposes (by reselling it or otherwise).
+## License
+
+[Creative Commons BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/) © Mantas Vilčinskas
