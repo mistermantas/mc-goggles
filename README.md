@@ -1,8 +1,9 @@
-# 👓 MC-Goggles
+<div style="text-align: center; margin: 0 auto; max-width: 48rem; background: #fff; color: #000">
+  <img alt="👓 MC-Goggles" src="https://vgy.me/ffT07o.png">
+  <p>This Minecraft resource pack—this modification that changes the game’s textures—is a close alternative to the default look, with some changes that compliment complex structures.<br><a href="https://mc-goggles.netlify.com">Learn more →</a></p>
+</div>
 
-[![Total downloads](https://img.shields.io/github/downloads/mistermantas/goggles/total.svg?style=flat-square)](https://github.com/mistermantas/goggles/releases)  [![Current release](https://img.shields.io/github/release/mistermantas/goggles.svg?style=flat-square)](https://github.com/mistermantas/goggles/releases)  [![Discord](https://img.shields.io/badge/discord-join%20chat-7289DA.svg?style=flat-square)](https://discord.gg/0sg9HNylRzK4SnCr)  [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)  [![Twitter](https://img.shields.io/twitter/follow/mistermantas.svg?style=social&label=Follow)](https://twitter.com/mistermantas)
-
-> This Minecraft resource pack—this modification that changes the game’s textures—is a close alternative to the default look, with some changes that compliment complex structures.
+[![Total downloads](https://img.shields.io/github/downloads/mistermantas/goggles/total.svg?style=flat-square)](https://github.com/mistermantas/goggles/releases)  [![Current release](https://img.shields.io/github/release/mistermantas/goggles.svg?style=flat-square)](https://github.com/mistermantas/goggles/releases)  [![Discord](https://img.shields.io/badge/discord-join%20chat-7289DA.svg?style=flat-square)](https://discord.gg/0sg9HNylRzK4SnCr)  [![Twitter](https://img.shields.io/twitter/follow/mistermantas.svg?style=social&label=Follow)](https://twitter.com/mistermantas)
 
 The goal is to enhance the currently available textures by making them more suitable for a larger array of styles, structures, and all while also not restricting or completely revamping the way that the game already looks. For example, such a modification would be suitable for cities or other non-medieval builds.
 
