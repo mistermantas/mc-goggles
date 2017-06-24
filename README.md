@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/github/downloads/mistermantas/goggles/total.svg?style=flat-square">
     </a>
     <a href="https://github.com/mistermantas/goggles/releases">
-      <img src="https://img.shields.io/maintenance/yes/2016.svg">
+      <img src="https://img.shields.io/maintenance/yes/2016.svg?style=flat-square">
     </a>
   </p>
 
